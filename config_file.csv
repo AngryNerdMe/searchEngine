@@ -1,0 +1,7 @@
+No,tablename,partitionkey,sortkey,createtime,updatetime
+1,bd-convosight-test-brandCampaigns,brandId,createdAtUTCTick,createdAtUTC,updatedAtUTC
+2,bd-convosight-test-campaignGroups,campaignId,groupId,createdAtUTC,updatedAtUTC
+3,bd-convosight-test-campaignReports,campaignId,null,createdAtUTC,updatedAtUTC
+4,bd-convosight-test-campaignTasks,campaignId,taskId,createdAtUTC,updatedAtUTC
+5,bd-convosight-test-campaigns,campaignId,null,createdAtUTC,updatedAtUTC
+6,bd-convosight-test-cmcReport-V2,campaignId,null,createdAtUTC,updatedAtUTC
